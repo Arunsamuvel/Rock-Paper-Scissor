@@ -1,3 +1,5 @@
 "use strict";
-
-const userChoiceEl = document.getElementById("user_Choice");
+function check(weapon) {
+  console.log(weapon);
+}
+// const userChoiceEl = document.getElementById("user_Choice");
