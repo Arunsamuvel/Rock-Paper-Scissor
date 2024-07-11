@@ -45,5 +45,6 @@ function check(weapon) {
 
   userChoiceEl.innerText = "User Choose" + " " + userChoice;
   compChoiceEl.innerText = "Computer Choose" + " " + compChoice;
+  // callback function
   compareChoice(userChoice, compChoice);
 }
